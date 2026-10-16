@@ -1,0 +1,9 @@
+========================================================================
+2026-10-15T20:39:19.603Z
+-- kernel output --
+
+-- btl input (cleaned boxes) --
+"17"
+-- btl output (latex) --
+17
+-- pageWidthEm: 30  lineBreak: no-change (fits in width)  opts: {"pageWidth":30,"pageWidthPx":481,"baseFontSizePx":16,"indentStep":2,"compact":false,"maxDelimDepth":2,"maxIterations":5,"maxRows":100} --
